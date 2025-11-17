@@ -1,0 +1,70 @@
+Age,Gender,Country of Origin,State in USA,Years in USA,Water Type at Home,Water Type Changed After Coming to USA,Diet Change After Moving,Daily Water Intake (Liters),Stress Level (0-10),Sleep Hours,Hair Type,Scale Type,Wash Frequency Per Week,Do You Oil Your Hair?,Heat Tools Usage,Hair Color / Bleach,Hijab or Turban Use,Use of Hair Styling Products,Iron Deficiency,Vitamin D Deficiency,Thyroid Issues,Recent Major Illness,Hair Loss Severity (0–10),Hair Loss Increased After Coming to USA,Hair Loss Pattern,When Did Hair Loss Start?,Anti-Dandruff Shampoo Use,Top 3 Hair Products You Use,Budget for Hair Products,Consent to Use Data for Academic Research,cause
+23,Male,India,Connecticut ,2-3 years,Soft,Yes,Less protein,,5.0,,Wavy,Mixed,3,Yes,Never,No,No,No,no,no,no,no,5.0,yes,Hair fall at roots,6 months,yes,Na,medium,yes,Dandruff_Fungal
+25,Female,India,Connecticut ,1-2 years,Hard,Yes,More protein,,7.0,,Wavy,Mixed,2,Yes,Weekly,No,No,Yes,not sure,yes,no,no,10.0,yes,Receding Hairline,First Month,no,"Oil, shampoo, serum",medium,yes,Hard_Water_Damage
+21,Female,India,Connecticut ,1-2 years,Soft,Yes,Less protein,,8.0,,Straight,Oily,2,No,Rarely,No,No,No,yes,yes,no,no,10.0,yes,Hair fall at roots,First Month,yes,"Tresemmé 
+L'Oreal Paris Elvive Hyaluron Plump
+",medium,yes,Dandruff_Fungal
+23,Male,India,Connecticut ,1-2 years,Dont know,Yes,Same,,8.0,,Wavy,Dry,3,No,Never,No,No,No,no,no,no,no,6.0,yes,Receding Hairline,Gradual,yes,"Head and shoulder,nizoral ",low,yes,Dandruff_Fungal
+25,Male,India,Texas,2-3 years,Hard,Yes,More protein,,6.0,,Straight,Dry,3,Yes,Never,No,No,No,no,no,no,no,7.0,yes,Overall Thinning,3 months,no,Na,medium,yes,Hard_Water_Damage
+28,Male,India,CONNECTICUT ,2-3 years,Soft,Yes,Less protein,,6.0,,Curly,Normal,3,Yes,Rarely,No,No,No,no,yes,no,no,4.0,yes,Not sure,6 months,yes,"Head &Shoulders , loreal",high,yes,Dandruff_Fungal
+27,Female,India,Connecticut,2-3 years,Dont know,Yes,Less protein,,8.0,,Curly,Normal,2,Yes,Rarely,No,No,No,yes,yes,yes,no,6.0,yes,Overall Thinning,Gradual,no,"Wishcare serum , shampoo and conditioner ",medium,yes,Hard_Water_Damage
+26,Male,India,Connecticut ,2-3 years,Dont know,NO,Less protein,,4.0,,Straight,Oily,3,Yes,Rarely,No,No,No,no,no,no,no,3.0,no,Not sure,Gradual,yes,"Head and shoulders shampoo, Almond oil",low,yes,Dandruff_Fungal
+24,Male,India,CT,0-6 months,Hard,Yes,Less protein,,7.0,,Straight,Normal,5+,Yes,Weekly,No,No,No,no,no,no,no,7.0,yes,Hair fall at roots,3 months,yes,"shampoo ,conditioner ",low,no,Dandruff_Fungal
+30,Male,Other,Connecticut ,3+ years,Soft,Yes,More protein,,0.0,,Straight,Normal,5+,No,Rarely,No,No,No,no,yes,no,no,0.0,yes,Not sure,First Month,yes,Head and shoulders ,medium,yes,Dandruff_Fungal
+24,Female,India,CT,1-2 years,Dont know,Yes,Same,,6.0,,Curly,Dry,1,No,Weekly,Yes,No,Yes,no,not sure,no,no,9.0,yes,Overall Thinning,First Month,yes,Redken all mega soft,medium,yes,Dandruff_Fungal
+29,Male,India,California,2-3 years,Hard,Yes,More protein,,4.0,,Wavy,Dry,3,No,Daily,No,No,Yes,not sure,yes,no,no,8.0,yes,Receding Hairline,First Month,no,Mille shampoo tresseme heat protect,high,yes,Hard_Water_Damage
+26,Male,India,CONNECTICUT ,1-2 years,Hard,Yes,Less protein,,100.0,,Wavy,Oily,2,No,Never,No,No,No,not sure,not sure,no,no,5.0,yes,Overall Thinning,Gradual,yes,Head and shoulders ,high,yes,Dandruff_Fungal
+21,Female,India,NJ,3+ years,Dont know,NO,Same,,6.0,,Straight,Dry,1,No,Never,Yes,No,No,yes,yes,no,no,8.0,no,Overall Thinning,Gradual,no,Meera shampoo and dove conditioner,low,yes,Vitamin_D_Deficiency
+23,Female,India,New jersey,1-2 years,Dont know,Yes,Less protein,,7.0,,Wavy,Normal,3,Yes,Weekly,No,No,Yes,yes,yes,no,no,7.0,yes,Hair fall at roots,3 months,no,Olaplex,high,yes,Hard_Water_Damage
+25,Female,India,Connecticut,1-2 years,Hard,Yes,Less protein,,10.0,,Wavy,Normal,1,Yes,Never,No,No,No,not sure,not sure,no,no,7.0,yes,Overall Thinning,Gradual,no,"Loreal Shampoo
+Vitamin C hair serum",medium,yes,Hard_Water_Damage
+21,Female,India,Connecticut ,6-12 months,Dont know,Yes,Less protein,,10.0,,Straight,Mixed,1,No,Rarely,No,No,No,yes,yes,no,no,10.0,yes,Overall Thinning,First Month,yes,All ,medium,yes,Dandruff_Fungal
+25,Male,India,Connecticut ,1-2 years,Dont know,Yes,Less protein,,10.0,,Curly,Dry,2,No,Rarely,No,No,No,not sure,no,no,no,8.0,yes,Hair fall at roots,3 months,yes,"Anti dandruff shampoos, comb",low,yes,Dandruff_Fungal
+20,Female,India,New York ,0-6 months,Dont know,Yes,Less protein,,7.0,,Wavy,Mixed,1,No,Weekly,No,No,No,yes,no,no,no,10.0,yes,Receding Hairline,First Month,yes,I used different kinds ,medium,yes,Dandruff_Fungal
+20,Prefer not to say,India,Richmond ,0-6 months,Dont know,Yes,More protein,,8.0,,Coily,Oily,1,No,Rarely,No,No,No,yes,yes,no,no,10.0,yes,Hair fall at roots,First Month,yes,I keep changing every week ,medium,yes,Dandruff_Fungal
+27,Male,India,Ct,2-3 years,Soft,Not Sure,Less protein,,8.0,,Wavy,Normal,5+,Yes,Rarely,No,No,No,no,no,no,no,5.0,same,Not sure,6 months,yes,Shampoo conditioner,medium,yes,Dandruff_Fungal
+28,Male,Pakistan,Fl,3+ years,Soft,Not Sure,Same,,8.0,,Wavy,Normal,2,No,Rarely,Yes,No,Yes,no,no,yes,yes,8.0,same,Hair fall at roots,Gradual,no,Shampoo straightener conditioner ,high,no,Stress_Shedding
+23,Female,India,CT ,0-6 months,Hard,NO,Same,,6.0,,Wavy,Dry,2,Yes,Rarely,No,No,No,not sure,not sure,no,no,6.0,yes,Overall Thinning,3 months,yes,Na,high,yes,Dandruff_Fungal
+32,Female,India,Atlanta,2-3 years,Hard,Yes,More protein,,7.0,,Straight,Dry,1,Yes,Daily,No,Yes,Yes,yes,yes,no,no,5.0,no,Overall Thinning,First Month,no,Shampooo,high,no,Hard_Water_Damage
+26,Male,India,Connecticut ,1-2 years,Dont know,Yes,Less protein,,10.0,,Curly,Dry,4,No,Never,No,No,No,not sure,not sure,no,no,7.0,yes,Not sure,Gradual,yes,Old spice,medium,yes,Dandruff_Fungal
+23,Female,India,New Jersey,1-2 years,Hard,Yes,Same,,9.0,,Wavy,Normal,2,Yes,Rarely,No,No,No,yes,no,no,no,10.0,yes,Hair fall at roots,First Month,no,Hair serum,medium,yes,Hard_Water_Damage
+22,Female,India,Connecticut ,1-2 years,Soft,NO,Less protein,,,,Straight,Normal,1,No,Never,No,No,No,yes,no,no,no,2.0,no,Not sure,Gradual,no,Loreal shampoo,medium,yes,Mixed_Other
+23,Female,India,New york,6-12 months,Dont know,Yes,More protein,,7.0,,Wavy,Dry,2,Yes,Rarely,Yes,No,No,no,no,no,no,8.0,yes,Receding Hairline,First Month,yes,Loreal professional absolut repair,medium,yes,Dandruff_Fungal
+64,Female,Other,Connecticut ,3+ years,Soft,NO,Same,,5.0,,Straight,Normal,2,No,Weekly,Yes,No,No,yes,yes,no,no,0.0,no,Not sure,Gradual,no,"Dove, ",medium,yes,Vitamin_D_Deficiency
+23,Female,India,Connecticut ,2-3 years,Hard,Yes,More protein,,10.0,,Straight,Oily,2,Yes,Rarely,No,No,No,not sure,not sure,no,yes,8.0,yes,Overall Thinning,3 months,yes,"Nizoral, bath& body , cerave",high,yes,Dandruff_Fungal
+22,Female,India,New Jersey,1-2 years,Hard,Yes,More protein,,7.0,,Wavy,Mixed,3,Yes,Rarely,No,No,No,no,yes,yes,no,8.0,same,Receding Hairline,Gradual,yes,"CeraVe Anti dandruff hair shampoo 
+Eva NYC hair mask
+Ogx conditioner
+Mielle Rosemary hair oil  ",medium,yes,Dandruff_Fungal
+24,Female,India,Connecticut ,2-3 years,Dont know,Yes,More protein,,7.0,,Wavy,Dry,2,No,Weekly,No,No,No,yes,no,no,no,2.0,no,Hair fall at roots,Gradual,no,"Shampoo , oil , conditioner ",medium,yes,Stress_Shedding
+26,Male,India,Florida,2-3 years,Dont know,Yes,More protein,,5.0,,Straight,Normal,1,No,Never,No,No,No,no,not sure,no,no,4.0,yes,Not sure,6 months,yes,Shampoo,medium,yes,Dandruff_Fungal
+26,Female,India,NJ,2-3 years,Dont know,Yes,Same,,8.0,,Curly,Dry,2,No,Rarely,No,No,No,no,yes,no,no,4.0,yes,Overall Thinning,After 1 year,yes,"Nizoral, renpure",medium,yes,Dandruff_Fungal
+27,Female,India,New Jersey ,3+ years,Soft,Yes,Less protein,,,,Wavy,Mixed,2,No,Rarely,No,No,No,no,no,no,no,8.0,yes,Hair fall at roots,First Month,yes,"Head & shoulders shampoo, ",medium,yes,Dandruff_Fungal
+23,Male,India,California ,1-2 years,Hard,Not Sure,More protein,,8.0,,Wavy,Mixed,2,Yes,Never,No,No,No,no,no,no,no,6.0,same,Receding Hairline,3 months,yes,"Tresemme, Mama earth, Bluntt",medium,yes,Dandruff_Fungal
+25,Female,India,Connecticut ,1-2 years,Dont know,Yes,Less protein,,10.0,,Wavy,Normal,2,Yes,Rarely,Yes,No,Yes,no,no,no,no,7.0,yes,Not sure,3 months,no,De fabulous  lorel ,high,yes,Hard_Water_Damage
+27,Female,India,Connecticut ,1-2 years,Dont know,Yes,Same,,10.0,,Wavy,Dry,3,No,Never,No,No,No,no,yes,no,yes,7.0,yes,Overall Thinning,Gradual,yes,Shampoo L’Oréal ,medium,yes,Dandruff_Fungal
+30,Female,India,Nee jersey ,3+ years,Soft,Yes,Less protein,,4.0,,Straight,Normal,2,Yes,Rarely,No,No,No,no,no,no,no,8.0,yes,Hair fall at roots,After 1 year,yes,"Anti dandruff, moisturizer, hairfall",high,no,Dandruff_Fungal
+23,Female,India, Connecticut ,2-3 years,Dont know,Yes,Less protein,,6.5,,Straight,Normal,2,Yes,Rarely,No,Yes,No,no,not sure,no,no,7.5,no,Overall Thinning,First Month,yes,"Shampoo, conditioner & oil",medium,yes,Dandruff_Fungal
+23,Female,India,Connecticut ,1-2 years,Dont know,Yes,Less protein,,10.0,,Straight,Normal,2,Yes,Never,No,No,No,not sure,not sure,no,no,9.0,yes,Overall Thinning,First Month,yes,"Mille shampoo, loreal hair mask",medium,yes,Dandruff_Fungal
+23,Male,India,Connecticut ,6-12 months,Hard,Yes,Less protein,,,,Straight,Mixed,2,Yes,Weekly,No,No,No,yes,no,no,no,,yes,Hair fall at roots,First Month,yes,Seba meda ,high,yes,Dandruff_Fungal
+23,Male,India,New York ,1-2 years,Soft,Yes,Less protein,,10.0,,Straight,Mixed,3,No,Never,No,No,No,no,yes,no,no,6.0,yes,Hair fall at roots,3 months,yes,Something ,medium,yes,Dandruff_Fungal
+35,Male,India,New jersey,3+ years,Soft,Yes,More protein,,10.0,,Wavy,Normal,3,Yes,Never,Yes,No,No,not sure,yes,not sure,no,7.0,yes,Overall Thinning,3 months,yes,"Nurozol, ketokenaole, panteene ",medium,yes,Dandruff_Fungal
+24,Female,India,CT,1-2 years,Soft,Yes,Less protein,,10.0,,Straight,Normal,2,Yes,Rarely,No,No,No,no,no,no,no,8.0,yes,Overall Thinning,Gradual,no,"Mille,castor oil and home made hair pack",medium,yes,Hard_Water_Damage
+24,Male,India,CT,2-3 years,Hard,Yes,More protein,,7.0,,Curly,Normal,2,Yes,Never,No,No,Yes,no,no,no,no,5.0,yes,Patchy loss,6 months,yes,Hair and Shoulders ,high,yes,Dandruff_Fungal
+27,Male,India,New Jersey ,3+ years,Dont know,Not Sure,More protein,,7.0,,Wavy,Normal,4,Yes,Rarely,No,No,No,not sure,not sure,no,no,5.0,yes,Receding Hairline,6 months,yes,Shampoo & hair conditioner ,medium,yes,Dandruff_Fungal
+21,Female,India,Connecticut ,1-2 years,Dont know,Yes,Less protein,,7.0,,Wavy,Mixed,2,Yes,Never,No,No,No,no,no,no,no,4.0,yes,Hair fall at roots,After 1 year,yes,"Serum 
+Mask 
+Shampoo",high,yes,Dandruff_Fungal
+23,Female,Sri Lanka,CT,6-12 months,Soft,Yes,Same,,8.0,,Wavy,Mixed,1,No,Rarely,No,No,Yes,no,no,no,no,10.0,yes,Overall Thinning,3 months,yes,"Nizrol, minoxidil, coconut oil",medium,yes,Dandruff_Fungal
+24,Female,India,kansas,1-2 years,Dont know,Yes,Same,,10.0,,Curly,Normal,2,No,Weekly,No,No,Yes,not sure,not sure,not sure,no,10.0,yes,Patchy loss,3 months,no,"oil, shampoo, serum",low,yes,Hard_Water_Damage
+21,Female,Pakistan,Philadelphia,6-12 months,Soft,Yes,More protein,,8.0,,Straight,Oily,3,Yes,Weekly,Yes,No,Yes,not sure,not sure,no,no,10.0,yes,Patchy loss,3 months,yes,"Keratese shampoo, conditioner, hairmask",high,yes,Dandruff_Fungal
+30,Male,India,chicago,6-12 months,Soft,Not Sure,Less protein,,4.0,,Straight,Mixed,4,No,Never,No,No,No,no,no,no,no,8.0,yes,Overall Thinning,First Month,no,shampoo,medium,yes,Mixed_Other
+22,Male,Bangladesh,texas,2-3 years,Dont know,Yes,More protein,,8.0,,Straight,Dry,4,No,Rarely,Yes,No,Yes,yes,yes,no,no,7.0,yes,Hair fall at roots,First Month,no,shampoo and serum,medium,yes,Hard_Water_Damage
+26,Female,India,New Jersey ,1-2 years,Dont know,Yes,More protein,,7.0,,Wavy,Mixed,1,Yes,Never,No,No,No,not sure,not sure,no,no,8.0,yes,Hair fall at roots,Gradual,yes,Nizoral and OGX,medium,yes,Dandruff_Fungal
+27,Male,India,Connecticut ,1-2 years,Dont know,Not Sure,Less protein,,6.0,,Curly,Mixed,5+,Yes,Rarely,No,No,No,not sure,not sure,no,no,6.0,yes,Not sure,6 months,yes,"Hair oil
+",medium,yes,Dandruff_Fungal
+26,Female,India,Connecticut ,1-2 years,Dont know,Yes,More protein,,10.0,,Wavy,Dry,1,Yes,Rarely,No,No,Yes,not sure,not sure,no,no,10.0,yes,Hair fall at roots,First Month,no,"L’Oréal, shea butter, Pantene ",low,yes,Hard_Water_Damage
+23,Female,India,Florida ,0-6 months,Hard,NO,More protein,,8.0,,Straight,Dry,1,Yes,Weekly,No,No,No,not sure,not sure,no,no,7.0,yes,Overall Thinning,First Month,yes,"Shampoo, conditioner, hair serum",medium,yes,Dandruff_Fungal
+22,Male,India,Nj,1-2 years,Soft,NO,More protein,,6.0,,Curly,Normal,3,Yes,Rarely,Yes,Yes,Yes,no,no,no,no,2.0,yes,Overall Thinning,3 months,yes,Headanshoulder,low,yes,Dandruff_Fungal
+23,Female,India,Massachusetts ,1-2 years,Soft,Yes,Less protein,,7.0,,Curly,Dry,2,Yes,Never,No,No,No,yes,yes,no,no,6.0,yes,Hair fall at roots,3 months,no,"Himalaya shampoo and conditioner, hair oil",low,yes,Hard_Water_Damage
+22,Female,India,Jersey,6-12 months,Hard,Yes,Same,,7.0,,Curly,Dry,1,No,Weekly,No,No,Yes,yes,yes,no,no,9.0,yes,Overall Thinning,First Month,no,Shampoo conditioner leave on ,medium,no,Hard_Water_Damage
