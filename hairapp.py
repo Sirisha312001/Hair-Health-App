@@ -7,7 +7,7 @@ import os
 import joblib
 import pandas as pd
 import streamlit as st
-import numpy as np        # 👈 add this
+import numpy as np        
 
 # ----------------------------------------------------------
 # 0. PATHS – RELATIVE TO THIS FILE (NO C:\ PATHS)
@@ -24,7 +24,7 @@ SUPPLEMENT_GUIDE_PATH = os.path.join(
 )
 
 IMAGE_SAHH_PATH = os.path.join(
-    BASE_DIR, "Gemini_Generated_Image_8birdr8birdr8bir.png"
+    BASE_DIR, "SAHH_ICON.png"
 )
 
 # These are the feature columns used when training hairloss_cause_model.pkl
