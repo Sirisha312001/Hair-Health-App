@@ -16,6 +16,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 MODEL_PATH = os.path.join(BASE_DIR, "hairloss_cause_model.pkl")
 PRODUCTS_PATH = os.path.join(BASE_DIR, "products_master_clean_small.csv")
+products_df = products_df[products_df['category'].str.contains("hair", case=False, na=False)]
 FOOD_RECOMMENDATIONS_PATH = os.path.join(
     BASE_DIR, "Hairfall_Food_Recommendations.xlsx"
 )
