@@ -23,7 +23,10 @@ SUPPLEMENT_GUIDE_PATH = os.path.join(
     BASE_DIR, "Copy of Hairfall_Supplement_Guide.xlsx"
 )
 
-IMAGE_SAHH_PATH = os.path.join( BASE_DIR, "AROHI_ICON.png" )
+#  Arohi icon (relative path, like SAHH example)
+IMAGE_AROHI_PATH = os.path.join(
+    BASE_DIR, "AROHI_ICON.png"
+)
 
 # These are the feature columns used when training hairloss_cause_model.pkl
 FEATURE_COLUMNS = [
