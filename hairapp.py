@@ -1,5 +1,5 @@
 # ==========================================================
-# South Asian Hair Health Assistant (Streamlit App)
+# Arohi Hair Health Assistant (Streamlit App)
 # Final integrated version
 # ==========================================================
 
@@ -23,9 +23,8 @@ SUPPLEMENT_GUIDE_PATH = os.path.join(
     BASE_DIR, "Copy of Hairfall_Supplement_Guide.xlsx"
 )
 
-IMAGE_SAHH_PATH = os.path.join(
-    BASE_DIR, "SAHH_ICON.png"
-)
+# 🔹 Updated icon path for Arohi
+IMAGE_AROHI_PATH = r"C:\local disk E\realme files\siri project\Hair project\AROHI_ICON.png"
 
 # These are the feature columns used when training hairloss_cause_model.pkl
 FEATURE_COLUMNS = [
@@ -66,8 +65,8 @@ FEATURE_COLUMNS = [
 # 1. PAGE CONFIG – MUST BE FIRST STREAMLIT CALL
 # ----------------------------------------------------------
 st.set_page_config(
-    page_title="South Asian Hair Health Assistant",
-    page_icon=IMAGE_SAHH_PATH if os.path.exists(IMAGE_SAHH_PATH) else "💇‍♀️",
+    page_title="Arohi Hair Health Assistant",
+    page_icon=IMAGE_AROHI_PATH if os.path.exists(IMAGE_AROHI_PATH) else "💇‍♀️",
     layout="wide",
 )
 
@@ -373,10 +372,27 @@ def get_products_for_cause(
     df["category"] = df["category"].astype(str)
     df["product_name"] = df["product_name"].astype(str)
 
-    hair_mask = df["category"].str.contains(
-        "hair|scalp|shampoo|conditioner|mask|oil|leave-in|serum", case=False, na=False
+    # 🔹 Strong filter: ONLY HAIR-RELATED PRODUCTS
+    hair_mask = (
+        df["category"].str.contains(
+            r"hair|scalp|shampoo|conditioner|mask|oil|leave\-in|serum|tonic|treatment",
+            case=False,
+            na=False,
+        )
+        | df["product_name"].str.contains(
+            r"hair|scalp|shampoo|conditioner|mask|oil|leave\-in|tonic|treatment",
+            case=False,
+            na=False,
+        )
     )
-    df = df[hair_mask]
+
+    not_hair_mask = df["category"].str.contains(
+        r"face|skin|moisturizer|cleanser|serum|makeup|toner|body|lotion|sunscreen",
+        case=False,
+        na=False,
+    )
+
+    df = df[hair_mask & ~not_hair_mask]
 
     needs = cause_to_needs.get(cause, ["general_hair_health"])
     mask = pd.Series(False, index=df.index)
@@ -797,10 +813,10 @@ supp_df = load_supp_recs()
 # 7. SIDEBAR – LOGO + NAV + STEPS
 # ----------------------------------------------------------
 with st.sidebar:
-    if os.path.exists(IMAGE_SAHH_PATH):
-        st.image(IMAGE_SAHH_PATH, caption="SAHH Assistant", use_column_width=True)
+    if os.path.exists(IMAGE_AROHI_PATH):
+        st.image(IMAGE_AROHI_PATH, caption="Arohi Assistant", use_column_width=True)
     else:
-        st.markdown("### SAHH Assistant")
+        st.markdown("### Arohi Assistant")
 
     st.markdown("---")
     st.markdown('<span class="sahh-pill">Prototype</span>', unsafe_allow_html=True)
@@ -835,7 +851,7 @@ with st.sidebar:
 # ----------------------------------------------------------
 # 8. MAIN TITLE + DISCLAIMER
 # ----------------------------------------------------------
-st.title("South Asian Hair Health Assistant")
+st.title("Arohi Hair Health Assistant")
 
 st.markdown(
     """
