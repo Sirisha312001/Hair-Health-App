@@ -23,8 +23,7 @@ SUPPLEMENT_GUIDE_PATH = os.path.join(
     BASE_DIR, "Copy of Hairfall_Supplement_Guide.xlsx"
 )
 
-# 🔹 Updated icon path for Arohi
-IMAGE_AROHI_PATH = r"C:\local disk E\realme files\siri project\Hair project\AROHI_ICON.png"
+IMAGE_SAHH_PATH = os.path.join( BASE_DIR, "AROHI_ICON.png" )
 
 # These are the feature columns used when training hairloss_cause_model.pkl
 FEATURE_COLUMNS = [
